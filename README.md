@@ -1,4 +1,4 @@
-# Calcium_Imaging_Analysis_app
+# Anaysis of Calcium imaging data
 
 This Streamlit app allows you to upload calcium imaging excel data, identify neuronal responders to chemical stimuli (Cap, m-CPBG, KCl), calculate ΔF/F₀, and visualize overlap between response groups.
 
